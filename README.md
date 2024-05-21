@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Привет👋 Меня зовут Богдан</h1>
+<h1 align="center">Hi, i'm Bogdan</h1>
 
 <div align="center">
   <a href="https://t.me/KnightOfTheWhiteRose" target="_blank">
